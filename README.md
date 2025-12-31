@@ -1,2 +1,7 @@
-# SE411-labs
-Repository for se411 lab exercise 
+# Introduction 
+This is a repository for my solutions to SE411 labs
+
+# Chapters 
+
+## Chapter 01: Git
+The first chapter is an introduction to git.
